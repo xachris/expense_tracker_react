@@ -1,6 +1,6 @@
 // 项目: Expense Tracker React Version 1.0
 // 名称: AddTransaction 组件
-// 用途: 添加交易项目
+// 用途: 显示添加交易项目
 
 // 导入核心模块, 导入语境钩子
 import React, {useState, useContext} from 'react'

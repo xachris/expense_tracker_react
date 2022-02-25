@@ -1,3 +1,7 @@
+// 项目: Expense Tracker React Version 1.0
+// 名称: Transaction 组件
+// 用途: 计算交易, 用于嵌套至交易列表中
+
 import React, {useContext} from 'react';
 import { GlobalContext } from '../context/GlobalState';
 

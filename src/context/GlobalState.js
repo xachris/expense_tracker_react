@@ -1,4 +1,6 @@
-
+// 项目: Expense Tracker React Version 1.0
+// 名称: 全局状态语境
+// 用途: 用于管理状态逻辑, 定义全局状态
 
 // 加载 Hooks, 加载 AppReducer
 import React, { createContext, useReducer } from 'react';

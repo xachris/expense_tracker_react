@@ -1,6 +1,6 @@
 // 项目: Expense Tracker React Version 1.0
 // 名称: Balance 组件
-// 用途: 显示页首
+// 用途: 显示余额
 
 // 导入核心模块, 导入语境钩子
 import React, { useContext } from 'react';
